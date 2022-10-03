@@ -1,0 +1,12 @@
+.navegation{
+    display: flex;
+}
+
+.logo img{
+    width: 2rem;
+}
+
+.logo{
+    display: flex;
+    justify-content: center;
+}
